@@ -1,0 +1,12 @@
+
+- excerpt: aŋ
+  structure: phoneme
+  audio: phonemes/an.mp3
+  tags:
+    - nasal vowel
+
+- excerpt: iŋ
+  structure: phoneme
+  audio: phonemes/in.mp3
+  tags:
+    - nasal vowel

@@ -1,0 +1,12 @@
+
+- excerpt: kȟ
+  structure: phoneme
+  audio: phonemes/kx.mp3
+  tags:
+    - gutteral sound
+    
+- excerpt: ǧ
+  structure: phoneme
+  audio: phonemes/gx.mp3
+  tags:
+    - gutteral sound

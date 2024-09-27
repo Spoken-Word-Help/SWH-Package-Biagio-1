@@ -1,0 +1,43 @@
+
+- excerpt: mn
+  structure: phoneme
+  description:
+    When 'm' and 'n' are together, there is a faint 'u' sound between them.
+  practice: mna mne mni mno mnu
+  related:
+
+      - excerpt: mní
+        noun:
+          - translation: water
+
+      - excerpt: wikčémna
+        numeral:
+          - translation: ten
+        stativeVerbValency1:
+          - translation: to be ten
+
+- excerpt: t
+  structure: phoneme
+  title: The Sound of '<excerpt>t</excerpt>'
+  practice: ta te ti to tu
+  audio: practice/practice-phoneme-t.mp3
+
+- excerpt: th
+  structure: phoneme
+  title: The Sound of '<excerpt>th</excerpt>'
+  practice: tha the thi tho thu
+  audio: practice/practice-phoneme-th.mp3
+
+- title: Nasal Vowels
+  practice: aŋ eŋ iŋ oŋ uŋ
+  audio: practice/practice-nasal-vowels.mp3
+
+- excerpt: kȟ
+  structure: phoneme
+  practice: kȟa kȟe kȟi kȟo kȟu
+  audio: practice/practice-gutteral-k.mp3
+    
+- excerpt: ǧ
+  structure: phoneme
+  practice: ǧa ǧe ǧi ǧo ǧu
+  audio: practice/practice-gutteral-g.mp3

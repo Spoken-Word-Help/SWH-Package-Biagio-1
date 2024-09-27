@@ -1,0 +1,111 @@
+
+- excerpt: makȟásitomniyaŋ
+  id: makxasitomniyan
+  dialects: [Lakota, Yankton]
+
+  alternatives:
+
+    - excerpt: makȟá sitómniyaŋ
+      id: makxa-sitomniyan
+      dialects: [Dakota]
+
+  glosses:
+
+    - gloss: makȟá sitómniyaŋ
+      id: gloss-words-makxa-sitomniyan
+      language: Lakota Language
+      type: interlinear
+      unit: word
+
+    - gloss: 
+        excerpts:
+          - excerpt: makȟá
+            id: makxa
+            structure: word
+          - excerpt: sitómniyaŋ
+            id: sitomniyan
+            structure: word
+      id: gloss-words-makxa-sitomniyan
+      type: interlinear
+      unit: word
+
+    - gloss: ma kȟa si to mni yaŋ
+      id: gloss-syllables-ma-kxa-si-to-mni-yan
+      language: Lakota Language
+      type: interlinear
+      unit: syllable
+
+    - gloss: 
+        excerpts:
+          - excerpt: ma
+            id: syllable-ma
+            structure: syllable
+          - excerpt: kȟa
+            id: syllable-kxa
+            structure: syllable
+          - excerpt: si
+            id: syllable-si
+            structure: syllable
+          - excerpt: to
+            id: syllable-to
+            structure: syllable
+          - excerpt: mni
+            id: syllable-mni
+            structure: syllable
+          - excerpt: yaŋ
+            id: syllable-yan
+            structure: syllable
+      id: gloss-syllables-ma-kxa-si-to-mni-yan
+      type: interlinear
+      unit: syllable
+
+  definitions:
+  
+    - partOfSpeech: adverb
+      translations:
+        - translation: all over the world
+        - translation: everywhere in the world
+        - translation: globally
+
+  related:  # Search
+
+    - excerpt: makȟá
+    - excerpt: sitómniyaŋ
+
+    - excerpt: kȟ
+      structure: phoneme
+    - excerpt: t
+      structure: phoneme
+    - excerpt: mn
+      structure: phoneme
+    - excerpt: aŋ
+      structure: phoneme
+
+  practice:  # Search
+
+    - excerpt: kȟ
+    - excerpt: t
+    - excerpt: mn
+    - title: Nasal Vowels
+
+#
+# Related exerpts
+#
+
+- excerpt: makȟá
+  definitions:
+
+    - partOfSpeech: noun
+      translations:
+        - translation: the earth, the world; nature
+        - translation: earth, ground; dirt, soil, dust
+        - translation: land, estate
+
+- excerpt: sitómniyaŋ
+  definitions:
+
+    - partOfSpeech: adverb
+      translations:
+        - translation: all over
+        - translation: throughout
+        - translation: in every direction

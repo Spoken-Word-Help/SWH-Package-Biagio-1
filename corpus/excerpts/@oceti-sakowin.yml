@@ -1,0 +1,79 @@
+
+- excerpt: Očhéthi Šakówiŋ
+  audio: oceti-sakowin.mp3
+  description: 
+  
+    This is the name for all the bands
+    of the Lakota, Dakota, and Nakota people.
+
+    When all the bands would come together,
+    there would be seven council fires.
+
+  definitions:
+
+    - partOfSpeech: proper name
+      translations:
+        - translation: Seven Council Fires
+        - translation: Great Sioux Nation
+
+  glosses:
+
+    - gloss: the place where a fire was built / seven of them
+      type: interlinear
+
+    - gloss: fire pits / seven
+      type: interlinear
+
+    - gloss: seven fire pits
+
+  related: # Search
+
+    - excerpt: očhéthi
+    - excerpt: šakówiŋ
+
+    - excerpt: o-
+    - excerpt: čhethí
+
+    - excerpt: k
+      structure: phoneme
+
+    - excerpt: iŋ
+      structure: phoneme
+
+- excerpt: očhéthi
+  definitions:
+  
+    - partOfSpeech: noun
+      translations:
+        - translation: fire pit
+        - translation: fireplace
+        - translation: stove
+
+- excerpt: šakówiŋ
+  definitions:
+
+    - partOfSpeech: numeral
+      translations:
+        - translation: seven
+
+    - partOfSpeech: stative verb
+      valency: 1
+      translations:
+        - translation: to be seven
+        - translation: there are seven
+
+- excerpt: o-
+  definitions:
+
+    - partOfSpeech: prefix
+      functions:
+        - function: creates certain nouns
+        - function: gives certain words a more general meaning
+        - function: with a number of verbs creates complex forms
+
+- excerpt: čhethí
+  definitions:
+  
+    - partOfSpeech: active verb
+      translations:
+        - translation: "to build or make a fire"
