@@ -7,37 +7,43 @@
   related:
 
       - excerpt: mní
-        noun:
-          - translation: water
+        definitions:
+
+          - partOfSpeech: noun
+            translation: water
 
       - excerpt: wikčémna
-        numeral:
-          - translation: ten
-        stativeVerbValency1:
-          - translation: to be ten
+        definitions:
+
+          - partOfSpeech: numeral
+            translation: ten
+
+          - partOfSpeech: stative verb
+            valency: 1
+            translation: to be ten
 
 - excerpt: t
   structure: phoneme
   title: The Sound of '<excerpt>t</excerpt>'
   practice: ta te ti to tu
-  audio: practice/practice-phoneme-t.mp3
+  # audio: practice/practice-phoneme-t.mp3
 
 - excerpt: th
   structure: phoneme
   title: The Sound of '<excerpt>th</excerpt>'
   practice: tha the thi tho thu
-  audio: practice/practice-phoneme-th.mp3
+  # audio: practice/practice-phoneme-th.mp3
 
 - title: Nasal Vowels
   practice: aŋ eŋ iŋ oŋ uŋ
-  audio: practice/practice-nasal-vowels.mp3
+  # audio: practice/practice-nasal-vowels.mp3
 
 - excerpt: kȟ
   structure: phoneme
   practice: kȟa kȟe kȟi kȟo kȟu
-  audio: practice/practice-gutteral-k.mp3
+  # audio: practice/practice-gutteral-k.mp3
     
 - excerpt: ǧ
   structure: phoneme
   practice: ǧa ǧe ǧi ǧo ǧu
-  audio: practice/practice-gutteral-g.mp3
+  # audio: practice/practice-gutteral-g.mp3

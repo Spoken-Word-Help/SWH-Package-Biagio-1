@@ -1,7 +1,17 @@
 
 excerpt:
-    language: Lakota Language
-    orthography: Lakota Language Consortium
+
+    language:
+        code: lkt
+        name: Lakota language
+
+    orthography: 
+        code: ullrich
+        name: Lakota Language Consortium
+
+    # audienceLanguage: Lakota language
+    # audienceOrthography: ullrich
 
 audience:
+
     language: English

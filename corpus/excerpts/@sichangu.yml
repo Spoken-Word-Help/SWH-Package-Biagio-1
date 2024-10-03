@@ -8,6 +8,7 @@
         - translation: The Brulé people
 
   related:
+
     - excerpt: Sičháŋǧu
     - excerpt: oyáte
 
@@ -29,12 +30,12 @@
     - excerpt: čháŋ
     - excerpt: ǧú
     
-    - excerpt: aŋ
-      structure: phoneme
-    - excerpt: ǧ
-      structure: phoneme
-    - excerpt: t
-      structure: phoneme
+    # - excerpt: aŋ
+    #   structure: phoneme
+    # - excerpt: ǧ
+    #   structure: phoneme
+    # - excerpt: t
+    #   structure: phoneme
 
 - excerpt: sičháŋgu
 

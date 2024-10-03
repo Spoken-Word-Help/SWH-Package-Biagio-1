@@ -1,6 +1,6 @@
 
 - excerpt: Očhéthi Šakówiŋ
-  audio: oceti-sakowin.mp3
+  # audio: oceti-sakowin.mp3
   description: 
   
     This is the name for all the bands
@@ -34,11 +34,10 @@
     - excerpt: o-
     - excerpt: čhethí
 
-    - excerpt: k
-      structure: phoneme
-
-    - excerpt: iŋ
-      structure: phoneme
+    # - excerpt: k
+    #   structure: phoneme
+    # - excerpt: iŋ
+    #   structure: phoneme
 
 - excerpt: očhéthi
   definitions:

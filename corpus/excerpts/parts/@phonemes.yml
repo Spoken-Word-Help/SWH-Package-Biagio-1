@@ -2,25 +2,25 @@
 - excerpt: k
   description: like the 'k' in skate
   structure: phoneme
-  audio: phonemes/k.mp3
+  # audio: phonemes/k.mp3
   tags:
     - unaspirated
 
 - excerpt: mn
   description: sounds like 'mun'
   structure: phoneme
-  audio: phonemes/mn.mp3
+  # audio: phonemes/mn.mp3
     
 - excerpt: t
   description: like the 't' in stand
   structure: phoneme
-  audio: phonemes/t.mp3
+  # audio: phonemes/t.mp3
   tags:
     - unaspirated
 
 - excerpt: th
   description: like the 't' in tune
   structure: phoneme
-  audio: phonemes/th.mp3
+  # audio: phonemes/th.mp3
   tags:
     - aspirated
