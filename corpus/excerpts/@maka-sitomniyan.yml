@@ -5,7 +5,7 @@
   audio: excerpts/makxasitomniyan.mp3
 
   alternatives:
-
+  
     - excerpt: makȟá sitómniyaŋ
       id: makxa-sitomniyan
       dialects: [Dakota]
@@ -76,16 +76,24 @@
   related:  # Search
 
     - excerpt: makȟá
-    - excerpt: sitómniyaŋ
+      audio: excerpts/makxa.mp3
+      definitions:
 
-    # - excerpt: kȟ
-    #   structure: phoneme
-    # - excerpt: t
-    #   structure: phoneme
-    # - excerpt: mn
-    #   structure: phoneme
-    # - excerpt: aŋ
-    #   structure: phoneme
+        - partOfSpeech: noun
+          translations:
+            - translation: the earth, the world; nature
+            - translation: earth, ground; dirt, soil, dust
+            - translation: land, estate
+
+    - excerpt: sitómniyaŋ
+      audio: excerpts/sitomniyan.mp3
+      definitions:
+
+        - partOfSpeech: adverb
+          translations:
+            - translation: all over
+            - translation: throughout
+            - translation: in every direction
 
   practice:  # Search
 
@@ -93,27 +101,3 @@
     - excerpt: t
     - excerpt: mn
     - title: Nasal Vowels
-
-#
-# Related exerpts
-#
-
-- excerpt: makȟá
-  audio: excerpts/makxa.mp3
-  definitions:
-
-    - partOfSpeech: noun
-      translations:
-        - translation: the earth, the world; nature
-        - translation: earth, ground; dirt, soil, dust
-        - translation: land, estate
-
-- excerpt: sitómniyaŋ
-  audio: excerpts/sitomniyan.mp3
-  definitions:
-
-    - partOfSpeech: adverb
-      translations:
-        - translation: all over
-        - translation: throughout
-        - translation: in every direction
