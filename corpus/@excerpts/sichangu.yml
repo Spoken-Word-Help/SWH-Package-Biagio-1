@@ -1,0 +1,47 @@
+
+- excerpt: Sičháŋǧu Oyáte
+  definitions:
+
+    - partOfSpeech: phrase
+      translations:
+        - translation: The Burned Thighs people
+        - translation: The Brulé people
+
+  related:
+
+    - excerpt: Sičháŋǧu
+      description:
+        The Burned Thighs, also known as the Brulé,
+        are one of seven Lakota tribes.
+      definitions:
+
+        - partOfSpeech: proper name
+          translations:
+            - translation: Burned Thighs (Tribe)
+            - translation: Brulé (Tribe)  
+
+      related:
+
+        - excerpt: sičháŋ
+
+          related:
+
+            - excerpt: si
+
+            - excerpt: čháŋ
+
+        - excerpt: ǧú
+
+    - excerpt: oyáte
+      definitions:
+
+        - partOfSpeech: noun
+          translations:
+            - translation: tribe
+            - translation: a people
+            - translation: a nation
+            - translation: population
+            - translation: society
+          note:
+            Also applies to animals and plants.
+      

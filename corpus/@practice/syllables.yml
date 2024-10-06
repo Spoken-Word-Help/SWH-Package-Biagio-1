@@ -1,0 +1,24 @@
+- title: The Syllable '<excerpt>mni</excerpt>'
+  id: the-syllable-mni
+  excerpts:
+    - excerpt: mni
+  description: 
+    When 'm' and 'n' are together, there is a faint 'u' sound between them.
+
+  related:
+
+      - excerpt: mní
+        definitions:
+
+          - partOfSpeech: noun
+            translation: water
+
+      - excerpt: wikčémna
+        definitions:
+
+          - partOfSpeech: numeral
+            translation: ten
+
+          - partOfSpeech: stative verb
+            valency: 1
+            translation: to be ten

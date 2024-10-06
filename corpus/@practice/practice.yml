@@ -1,0 +1,53 @@
+- title: The Sound of '<excerpt>k</excerpt>'
+  id: the-sound-of-k
+  excerpt:
+    - excerpts: k
+      structure: phoneme
+      description: like the 'k' in skate
+  practice: ka ke ki ko ku
+  # audio: practice/the-sound-of-k.mp3
+
+- title: The Sound of '<excerpt>t</excerpt>'
+  id: the-sound-of-t
+  practice: 
+    - excerpt: ta
+      # audio: syllables/ta.mp3
+    - excerpt: te
+      # audio: syllables/te.mp3
+    - excerpt: ti 
+      # audio: syllables/ti.mp3
+    - excerpt: to
+      # audio: syllables/to.mp3
+    - excerpt: tu
+      # audio: syllables/tu.mp3
+  excerpts:
+
+    - excerpt: t
+      structure: phoneme
+      description: like the 't' in stand
+
+- title: The Sound of '<excerpt>th</excerpt>'
+  id: the-sound-of-th
+  practice: tha the thi tho thu
+  # audio: practice/the-sound-of-th.mp3
+  excerpts: 
+    - excerpt: th
+      structure: phoneme
+      description: like the 't' in tune
+
+- title: The Sound of '<excerpt>kȟ</excerpt>'
+  id: the-sound-of-kx
+  practice: kȟa kȟe kȟi kȟo kȟu
+  # audio: practice/the-sound-of-kx.mp3
+  excerpts:
+    - excerpt: kȟ
+      structure: phoneme
+  
+    
+- title: The Sound of '<excerpt>ǧ</excerpt>'
+  id: the-sound-of-gx
+  practice: ǧa ǧe ǧi ǧo ǧu
+  # audio: practice/the-sound-of-gx.mp3
+  excerpts:
+    - excerpt: ǧ
+      structure: phoneme

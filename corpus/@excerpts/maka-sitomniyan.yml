@@ -45,7 +45,7 @@
           - excerpt: ma
             id: syllable-ma
             structure: syllable
-          - excerpt: kȟa
+          - excerpt: kȟá
             id: syllable-kxa
             structure: syllable
           - excerpt: si
@@ -73,7 +73,7 @@
         - translation: everywhere in the world
         - translation: globally
 
-  related:  # Search
+  related:
 
     - excerpt: makȟá
       audio: excerpts/makxa.mp3
@@ -95,9 +95,59 @@
             - translation: throughout
             - translation: in every direction
 
-  practice:  # Search
+  practice:
+ 
+    - practice:
+        - excerpt: ma
+        - excerpt: kȟá
+          highlight: true
+        - excerpt: si
+        - excerpt: to
+        - excerpt: mni
+        - excerpt: yaŋ
+      description: 
+        The <excerpt>kȟ</excerpt> makes a gutteral, raspy sound.
 
-    - excerpt: kȟ
-    - excerpt: t
-    - excerpt: mn
-    - title: Nasal Vowels
+    - practice:
+        - excerpt: ma
+        - excerpt: kȟá
+        - excerpt: si
+        - excerpt: to
+          highlight: true
+        - excerpt: mni
+        - excerpt: yaŋ
+      description: 
+        The <excerpt>t</excerpt> is shortened (like the 't' in stand).
+
+    - description: 
+        When 'm' and 'n' are together, there is a faint 'u' sound between them.
+      practice:
+        - excerpt: ma
+        - excerpt: kȟá
+        - excerpt: si
+        - excerpt: to
+        - excerpt: mni
+          highlight: true
+        - excerpt: yaŋ
+      examples:
+          - excerpt: wikčémna
+            definitions:
+              - partOfSpeech: numeral
+                translation: ten
+              - partOfSpeech: stative verb
+                valency: 1
+                translation: to be ten
+
+    - practice:
+        - excerpt: ma
+        - excerpt: kȟá
+        - excerpt: si
+        - excerpt: to
+        - excerpt: mni
+        - excerpt: yaŋ
+          highlight: true
+      examples:
+          - excerpt: háŋpa
+            definitions:
+              - partOfSpeech: noun
+                translation: shoe

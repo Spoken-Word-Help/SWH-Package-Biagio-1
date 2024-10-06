@@ -27,7 +27,7 @@
     - gloss: seven fire pits
 
   related: # Search
-  
+
     - excerpt: očhéthi
       definitions:
       
@@ -36,6 +36,24 @@
             - translation: fire pit
             - translation: fireplace
             - translation: stove
+      
+      related:
+
+        - excerpt: o-
+          definitions:
+
+            - partOfSpeech: prefix
+              functions:
+                - function: creates certain nouns
+                - function: gives certain words a more general meaning
+                - function: with a number of verbs creates complex forms
+
+        - excerpt: čhethí
+          definitions:
+          
+            - partOfSpeech: active verb
+              translations:
+                - translation: "to build or make a fire"
 
     - excerpt: šakówiŋ
       definitions:
@@ -49,19 +67,3 @@
           translations:
             - translation: to be seven
             - translation: there are seven
-
-    - excerpt: o-
-      definitions:
-
-        - partOfSpeech: prefix
-          functions:
-            - function: creates certain nouns
-            - function: gives certain words a more general meaning
-            - function: with a number of verbs creates complex forms
-
-    - excerpt: čhethí
-      definitions:
-      
-        - partOfSpeech: active verb
-          translations:
-            - translation: "to build or make a fire"
