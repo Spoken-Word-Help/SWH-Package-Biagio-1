@@ -1,6 +1,7 @@
 
 - excerpt: Očhéthi Šakówiŋ
-  # audio: oceti-sakowin.mp3
+  id: ocethi-sakowin
+  audio: excerpts/ochethi-shakowin.mp3
   description: 
   
     This is the name for all the bands
@@ -18,17 +19,44 @@
 
   glosses:
 
-    - gloss: the place where a fire was built / seven of them
-      type: interlinear
+    # - gloss: the place where a fire was built / seven of them
+    #   type: interlinear
+    # - gloss: fire pits / seven
+    #   type: interlinear
+    # - gloss: seven fire pits
 
-    - gloss: fire pits / seven
+    - gloss: 
+        excerpts:
+          - excerpt: Očhéthi
+            audio: excerpts/ochethi.mp3
+          - excerpt: Šakówiŋ
+            audio: excerpts/shakowin.mp3
+      language: Lakota language
       type: interlinear
+      unit: word
 
-    - gloss: seven fire pits
+    - gloss: 
+        excerpts:
+          - excerpt: O
+            audio: syllables/o.mp3
+          - excerpt: čhé
+            audio: syllables/che.mp3
+          - excerpt: thi
+            audio: syllables/thi.mp3
+          - excerpt: Ša
+            audio: syllables/sha.mp3
+          - excerpt: kó
+            audio: syllables/ko.mp3
+          - excerpt: wiŋ
+            audio: syllables/win.mp3
+      language: Lakota language
+      type: interlinear
+      unit: syllable
 
   related: # Search
 
     - excerpt: očhéthi
+      audio: excerpts/ochethi.mp3
       definitions:
       
         - partOfSpeech: noun
@@ -41,7 +69,6 @@
 
         - excerpt: o-
           definitions:
-
             - partOfSpeech: prefix
               functions:
                 - function: creates certain nouns
@@ -49,21 +76,72 @@
                 - function: with a number of verbs creates complex forms
 
         - excerpt: čhethí
+          audio: excerpts/chethi.mp3
           definitions:
-          
             - partOfSpeech: active verb
               translations:
                 - translation: "to build or make a fire"
 
-    - excerpt: šakówiŋ
-      definitions:
+        - excerpt: šakówiŋ
+          audio: excerpts/shakowin.mp3
+          definitions:
+            - partOfSpeech: numeral
+              translations:
+                - translation: seven
+            # - partOfSpeech: stative verb
+            #   valency: 1
+            #   translations:
+            #     - translation: to be seven
+            #     - translation: there are seven
 
-        - partOfSpeech: numeral
-          translations:
-            - translation: seven
+  practice:
 
-        - partOfSpeech: stative verb
-          valency: 1
-          translations:
-            - translation: to be seven
-            - translation: there are seven
+    - practice:
+        - excerpt: o
+        - excerpt: čhé
+          audio: syllables/che.mp3
+          highlight: true
+        - excerpt: thi
+      description: 
+        The <excerpt>čh</excerpt> makes the "ch" sound like chair.
+
+    - practice:
+        - excerpt: o
+        - excerpt: čhé
+        - excerpt: thi
+          audio: syllables/thi.mp3
+          highlight: true
+      description: 
+        The <excerpt>th</excerpt> sound is a normal "t" (like the 't' in tea).
+        Some phonetic orthographies place a letter "h" at the end to signify the aspiration.
+
+    - practice:
+        - excerpt: ša
+        - excerpt: kó
+          audio: syllables/ko.mp3
+          highlight: true
+        - excerpt: wiŋ
+      description: 
+        The <excerpt>k</excerpt> is shortened (like the 'k' in ski).
+
+    - practice:
+        - excerpt: ka ke ki ko ku
+          audio: practice/ka-ke-ki-ko-ku.mp3
+      description: 
+        Some more practice for the <excerpt>k</excerpt> sound.
+
+    - practice:
+        - excerpt: ša
+        - excerpt: kó
+        - excerpt: wiŋ
+          audio: syllables/win.mp3
+          highlight: true
+      description: 
+        The <excerpt>iŋ</excerpt> is a nasalized vowel sound.
+      examples:
+        - excerpt: íŋaŋ
+          audio: excerpts/inyan.mp3
+          definitions:
+            - partOfSpeech: noun
+              translations:
+                - translation: stone, rock

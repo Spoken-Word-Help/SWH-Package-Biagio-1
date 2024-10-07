@@ -13,11 +13,11 @@
 
   glosses:
 
-    - gloss: makȟá sitómniyaŋ
-      id: gloss-words-makxa-sitomniyan
-      language: Lakota language
-      type: interlinear
-      unit: word
+    # - gloss: makȟá sitómniyaŋ
+    #   id: gloss-words-makxa-sitomniyan
+    #   language: Lakota language
+    #   type: interlinear
+    #   unit: word
 
     - gloss: 
         excerpts:
@@ -34,30 +34,36 @@
       type: interlinear
       unit: word
 
-    - gloss: ma kȟa si to mni yaŋ
-      id: gloss-syllables-ma-kxa-si-to-mni-yan
-      language: Lakota language
-      type: interlinear
-      unit: syllable
+    # - gloss: ma kȟa si to mni yaŋ
+    #   id: gloss-syllables-ma-kxa-si-to-mni-yan
+    #   language: Lakota language
+    #   type: interlinear
+    #   unit: syllable
 
     - gloss: 
         excerpts:
           - excerpt: ma
+            audio: syllables/ma.mp3
             id: syllable-ma
             structure: syllable
           - excerpt: kȟá
+            audio: syllables/kxa.mp3
             id: syllable-kxa
             structure: syllable
           - excerpt: si
+            audio: syllables/si.mp3
             id: syllable-si
             structure: syllable
           - excerpt: to
+            audio: syllables/to.mp3
             id: syllable-to
             structure: syllable
           - excerpt: mni
+            audio: syllables/mni.mp3
             id: syllable-mni
             structure: syllable
           - excerpt: yaŋ
+            audio: syllables/yan.mp3
             id: syllable-yan
             structure: syllable
       id: gloss-syllables-ma-kxa-si-to-mni-yan
@@ -100,6 +106,7 @@
     - practice:
         - excerpt: ma
         - excerpt: kȟá
+          audio: syllables/kxa.mp3
           highlight: true
         - excerpt: si
         - excerpt: to
@@ -114,6 +121,7 @@
         - excerpt: si
         - excerpt: to
           highlight: true
+          audio: syllables/to.mp3
         - excerpt: mni
         - excerpt: yaŋ
       description: 
@@ -127,27 +135,33 @@
         - excerpt: si
         - excerpt: to
         - excerpt: mni
+          audio: syllables/mni.mp3
           highlight: true
         - excerpt: yaŋ
       examples:
           - excerpt: wikčémna
+            audio: excerpts/wikcemna.mp3
             definitions:
               - partOfSpeech: numeral
                 translation: ten
-              - partOfSpeech: stative verb
-                valency: 1
-                translation: to be ten
+              # - partOfSpeech: stative verb
+              #   valency: 1
+              #   translation: to be ten
 
-    - practice:
+    - description:
+        The <excerpt>aŋ</excerpt> is a nasalized vowel sound.
+      practice:
         - excerpt: ma
         - excerpt: kȟá
         - excerpt: si
         - excerpt: to
         - excerpt: mni
         - excerpt: yaŋ
+          audio: syllables/yan.mp3
           highlight: true
       examples:
           - excerpt: háŋpa
+            audio: excerpts/hanpa.mp3
             definitions:
               - partOfSpeech: noun
                 translation: shoe

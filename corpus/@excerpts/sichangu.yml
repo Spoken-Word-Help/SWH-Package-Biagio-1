@@ -1,47 +1,98 @@
 
-- excerpt: Sičháŋǧu Oyáte
+- excerpt: Sičháŋǧu
+  audio: excerpts/sichangxu.mp3
+  id: sicangxu
+  description:
+    The Burned Thighs, also known as the Brulé,
+    are one of seven Lakota tribes.
   definitions:
-
-    - partOfSpeech: phrase
+    - partOfSpeech: proper name
       translations:
-        - translation: The Burned Thighs people
-        - translation: The Brulé people
+        - translation: Burned Thighs (Tribe)
+        - translation: Brulé (Tribe)  
+
+  glosses:
+    - gloss: 
+        excerpts:
+          - excerpt: Si
+            audio: excerpts/si.mp3
+          - excerpt: čháŋ
+            audio: excerpts/chan.mp3
+          - excerpt: ǧu
+            audio: excerpts/gxu.mp3
+      language: Lakota language
+      type: interlinear
+      unit: word
 
   related:
-
-    - excerpt: Sičháŋǧu
-      description:
-        The Burned Thighs, also known as the Brulé,
-        are one of seven Lakota tribes.
+    - excerpt: sičháŋ
+      audio: excerpts/sichan.mp3
       definitions:
-
-        - partOfSpeech: proper name
-          translations:
-            - translation: Burned Thighs (Tribe)
-            - translation: Brulé (Tribe)  
-
-      related:
-
-        - excerpt: sičháŋ
-
-          related:
-
-            - excerpt: si
-
-            - excerpt: čháŋ
-
-        - excerpt: ǧú
-
-    - excerpt: oyáte
-      definitions:
-
         - partOfSpeech: noun
           translations:
-            - translation: tribe
-            - translation: a people
-            - translation: a nation
-            - translation: population
-            - translation: society
-          note:
-            Also applies to animals and plants.
-      
+            - translation: thigh (outside of the thigh)
+      related:
+        - excerpt: si
+          audio: excerpts/si.mp3
+          definitions:
+            - partOfSpeech: noun
+              translations:
+                - translation: one's foot
+                - translation: paw
+                - translation: hoof
+                - translation: foot of a bird
+        - excerpt: čháŋ
+          audio: excerpts/chan.mp3
+          definitions:
+            - partOfSpeech: noun
+              translations:
+                - translation: wood
+                - translation: tree
+    - excerpt: ǧú
+      audio: excerpts/gxu.mp3
+      definitions:
+        - partOfSpeech: stative verb
+          valency: 1
+          translations:
+            - translation: to be burned on the surface
+            - translation: scorched
+
+  practice:
+
+    - practice:
+        - excerpt: Si
+        - excerpt: čháŋ
+          audio: excerpts/chan.mp3
+          highlight: true
+        - excerpt: ǧu
+      description:
+        The <excerpt>aŋ</excerpt> is a nasalized vowel sound.
+      examples:
+        - excerpt: áŋpa
+          audio: excerpts/anpa.mp3
+          definitions:
+            - partOfSpeech: impersonal verb
+              translations:
+                - translation: it is daytime
+                - translation: it is daylight
+                - translation: it is it is dawn
+            - partOfSpeech: noun
+              translations:
+                - translation: dawn
+                - translation: daylight
+
+    - practice:
+        - excerpt: Si
+        - excerpt: čháŋ
+        - excerpt: ǧu
+          audio: excerpts/gxu.mp3
+          highlight: true
+      description:
+        The <excerpt>ǧ</excerpt> makes a gutteral sound.
+
+
+    - practice:
+        - excerpt: ǧa ǧe ǧi ǧo ǧu
+          audio: practice/gxa-gxe-gxi-gxo-gxu.mp3
+      description: 
+        Some more practice for the <excerpt>ǧ</excerpt> sound.

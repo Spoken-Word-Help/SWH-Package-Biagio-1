@@ -1,0 +1,108 @@
+
+codes: 
+
+  - code: lkt
+
+names:
+
+  - name: Lakota language
+    languageCode: eng
+
+  - name: Lakxota
+    languageCode: lkt
+    orthographyCode: takini
+
+  - name: Lakota
+    languageCode: eng
+
+  - name: Lakhota
+    languageCode: eng
+
+  - name: Lakotah
+    languageCode: eng
+
+orthographies:
+
+  - codes: 
+      - code: txakini
+    names:
+      - name: Txakini
+        languageCode: lkt
+        orthographyCode: txakini
+      - name: Txakini
+        languageCode: eng
+    
+  - codes:
+      - code: whitehat
+    names:
+      - name: White Hat
+        languageCode: eng
+
+  - codes:
+      - code: siouanist
+    names:
+      - name: Siouanist
+        languageCode: eng
+
+  - codes:
+      - code: sicc
+    names:
+      - name: SICC
+
+  - codes:
+      - code: net
+    names:
+      - name: Net Siouan
+        languageCode: eng
+
+  - codes:
+      - code: rosebud
+    names:
+      - name: RST
+        languageCode: eng
+      - name: Rosebud Sioux Tribe orthography
+        languageCode: eng
+  
+  - codes:
+      - code: riggs
+    names:
+      - name: Riggs
+        languageCode: eng
+
+  - codes:
+      - code: buechel
+    names:
+      - name: Buechel
+        languageCode: eng
+  
+  - codes:
+      - code: deloria
+    names:
+      - name: Deloria
+        languageCode: eng
+
+  - codes:
+      - code: manhart
+    names:
+      - name: Manhart
+        languageCode: eng
+
+  - codes:
+      - code: ullrich
+    names:
+      - name: Ullrich
+        languageCode: eng
+
+  - codes:
+      - code: colorado
+    names:
+      - name: Colorado
+        languageCode: eng
+
+  - codes:
+      - code: lakota
+    names:
+      - name: Traditional Lakota
+        languageCode: eng
+      - name: Lakota
+        languageCode: eng

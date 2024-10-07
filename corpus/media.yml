@@ -3,4 +3,4 @@
   type: audio/mp3
   credits:
     voices:
-      - (biagio-arobba)
+      - ref: people/biagio-arobba
